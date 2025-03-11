@@ -12,13 +12,7 @@ public class EnterPoint : MonoBehaviour
     [SerializeField] private Canvas _targetCanvas;
     private float _timeScale = 1;
 
-    //Comment
-
-    /*
-     * jjncjksdcjk
-     * kjsdcjkshcjk
-     * kjshcjhjkh
-     */
+    //This is a new comment for my homework.
 
     void Start()
     {
