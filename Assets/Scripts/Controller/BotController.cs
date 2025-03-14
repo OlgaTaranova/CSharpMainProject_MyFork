@@ -6,17 +6,7 @@ using Model;
 using Model.Config;
 using UnityEngine;
 using Utilities;
-//hello
-//How are you?
-//i'm fine
-// Hello, 2025
-
-// How are you?
-
-//I'm fine!
-
-// It's 2025 year!!! Not 2023!
-//2 wears...
+//All comments deleted
 
 namespace Controller
 {
